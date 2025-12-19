@@ -2,7 +2,7 @@ import TelegramBot from 'node-telegram-bot-api';
 import axios from 'axios';
 
 // --- CONFIGURE HERE ---
-const TELEGRAM_BOT_TOKEN = 'bot8542981210:AAF1tKSU1EZb-5YwEafSTJEd_tqIcRKQJrw';
+const TELEGRAM_BOT_TOKEN = '8542981210:AAF1tKSU1EZb-5YwEafSTJEd_tqIcRKQJrw';
 const FIXED_CHAT_ID = 2141064153;
 const KIEAI_API_KEY = '713300857dcc1eabc93c589150d663a2';
 
